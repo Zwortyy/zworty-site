@@ -8,7 +8,6 @@ import { Home, Info, Package, Paintbrush, Store, Star, BookOpen, Users, Phone, L
 const navItems = [
   { name: 'Hakkımızda', path: '/hakkimizda', icon: <Info size={18} /> },
   { name: 'Ürünler', path: '/urunler', icon: <Package size={18} /> },
-  { name: 'Showroom', path: '/showroom', icon: <Store size={18} /> },
   { name: 'Referanslar', path: '/referanslar', icon: <Star size={18} /> },
   { name: 'İletişim', path: '/iletisim', icon: <Phone size={18} /> },
 ];
